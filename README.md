@@ -1,1 +1,1 @@
-![alt](https://pokeruby-decompile-percentage.herokuapp.com/Touched/test.svg)
+![alt](https://pokeruby-decompile-percentage.herokuapp.com/Touched/test/master.svg)
