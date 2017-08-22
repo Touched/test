@@ -1,5 +1,5 @@
 language: generic
 script:
-  - echo "decompile-percentage:16%"
+  - echo "decompile-percentage:17%"
 notifications:
   webhooks: https://pokeruby-decompile-percentage.herokuapp.com/webhook
